@@ -407,7 +407,7 @@ img {
   color: var(--accent-color); /* Light blue links in footer */
 }
 
-#footer a:hover {
+#footer .contact-icon:hover{
   color: var(--white);
 }
 
